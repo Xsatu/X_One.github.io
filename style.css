@@ -9,3 +9,11 @@
 section {
   padding-top: 5rem;
 }
+
+h2 {
+  transition: 0.3s;
+}
+
+.cntr:hover h2 {
+  transform: rotate(360deg);
+}
