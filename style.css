@@ -10,10 +10,11 @@ section {
   padding-top: 5rem;
 }
 
-h2 {
-  transition: 0.3s;
+.tag {
+  position: relative;
+  bottom: -65px;
 }
 
-.cntr:hover h2 {
-  transform: rotate(360deg);
+.h {
+  text-align: start;
 }
