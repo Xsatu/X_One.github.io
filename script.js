@@ -1,1 +1,0 @@
-alert('Apakah anda ingin melanjutkan ke web orang gamnteng?:v');
