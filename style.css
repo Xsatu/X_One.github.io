@@ -2,8 +2,42 @@
   padding-top: 3rem;
   background-color: #84f7f760;
 }
+
+#aabout {
+  text-decoration: none;
+}
+
+#aabout:hover {
+  font-family: monospace;
+  color: rgb(7, 255, 255);
+}
+
+#aabout:hover:active {
+  color: black;
+}
+
 #projects {
   background-color: #84f7f760;
+}
+
+#p1 {
+  font-weight: 10px;
+  font-size: 21px;
+  text-indent: 20px;
+}
+
+#apro {
+  text-decoration: none;
+}
+
+#apro:hover {
+  font-family: monospace;
+  color: rgb(7, 255, 255);
+}
+
+#apro:hover:active {
+  text-decoration: underline;
+  color: black;
 }
 
 section {
@@ -12,7 +46,18 @@ section {
 
 .tag {
   position: relative;
-  bottom: -65px;
+  bottom: -55px;
+}
+
+#footer:hover {
+  font-family: arial;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+#footer:hover:active {
+  color: black;
+  text-decoration: underline;
 }
 
 .h {

@@ -1,0 +1,25 @@
+#navbar {
+  background-color: aqua;
+}
+
+h3 {
+  position: relative;
+  padding-top: 18px;
+}
+
+p {
+  position: relative;
+  bottom: -18px;
+}
+#footer {
+  text-decoration: none;
+}
+
+#footer:hover {
+  font-size: 20px;
+}
+
+#footer:hover:active {
+  text-decoration: underline;
+  color: black;
+}
