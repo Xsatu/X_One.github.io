@@ -26,6 +26,41 @@
   text-indent: 20px;
 }
 
+#project1 {
+  font-size: medium;
+}
+
+#project1:hover {
+  background-color: rgba(65, 65, 255, 0.555);
+}
+
+#project2 {
+  position: relative;
+  bottom: 6px;
+}
+
+#project2:hover {
+  background-color: rgba(65, 65, 255, 0.555);
+}
+
+#project3 {
+  position: relative;
+  top: 6px;
+}
+
+#project3:hover {
+  background-color: rgba(65, 65, 255, 0.555);
+}
+
+#project4 {
+  position: relative;
+  top: 15px;
+}
+
+#project4:hover {
+  background-color: rgba(65, 65, 255, 0.555);
+}
+
 #apro {
   text-decoration: none;
 }
