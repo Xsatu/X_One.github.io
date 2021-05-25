@@ -9,7 +9,7 @@
 
 #aabout:hover {
   font-family: monospace;
-  color: rgb(7, 255, 255);
+  color: #ffff;
 }
 
 #aabout:hover:active {
